@@ -15,7 +15,7 @@
 
   <li>Install dependencies:</li>
   <code>cd httrack-telegram-bot
-npm install</code>
+ npm install</code>
 
   <li>Set up the Telegram bot:</li>
   <ul>
