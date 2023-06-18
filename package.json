@@ -1,0 +1,26 @@
+{
+  "name": "httrack-telegram-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot to copy websites using HTTrack and share the zip file",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Harshit Sharma",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harshitethic/httrack-telegram-bot"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "httrack",
+    "node.js"
+  ],
+  "dependencies": {
+    "archiver": "^5.3.1",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
+
+
